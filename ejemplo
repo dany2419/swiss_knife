@@ -1,0 +1,5 @@
+# Ejemplo: PDF → Word
+python swiss_knife.py pdf2docx entrada.pdf salida.docx
+
+# Ejemplo: imagen a PDF
+python swiss_knife.py img2pdf foto.png salida.pdf
